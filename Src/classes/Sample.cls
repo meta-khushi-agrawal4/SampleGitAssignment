@@ -1,6 +1,6 @@
 public class test {
 
 public static void main testMethod() {
-system.debug('hello');
+system.debug('Sample Class file');
 }
 }
